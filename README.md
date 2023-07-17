@@ -17,3 +17,7 @@ Perhaps you also wanted to start an open source project, or want to decide you i
 ## Open source should satisfy geeks' desires, not (only) corporate needs
 
 TBC
+
+## There are two facets of free-dom in open source: free as in beer and free as in public toilet
+
+TBC
